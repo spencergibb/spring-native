@@ -1,0 +1,17 @@
+[
+    {
+        "name": "kotlin.coroutines.Continuation[]"
+    },
+    {
+        "name": "com.example.webflux.Bar",
+        "allDeclaredFields": true,
+        "allDeclaredMethods": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.example.webflux.WebfluxController",
+        "allDeclaredFields": true,
+        "allDeclaredMethods": true,
+        "allDeclaredConstructors": true
+    }
+]
